@@ -1,2 +1,2 @@
 # MovieApi
-Una aplicacion para practicar API REST
+Curso Practico de Consumo de API REST platzi
