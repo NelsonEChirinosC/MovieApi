@@ -1,0 +1,24 @@
+{
+  "name": "movieapi",
+  "version": "1.0.0",
+  "description": "Curso practico de Consumo API REST Javascript en platzi con JuanDC",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NelsonEChirinosC/MovieApi.git"
+  },
+  "keywords": [
+    "API",
+    "REST",
+    "HTTP"
+  ],
+  "author": "Nelson Chirinos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NelsonEChirinosC/MovieApi/issues"
+  },
+  "homepage": "https://github.com/NelsonEChirinosC/MovieApi#readme"
+}
